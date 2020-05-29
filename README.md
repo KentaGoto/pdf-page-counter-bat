@@ -1,14 +1,14 @@
 # pdf-page-counter-bat
 
 ## Description  
-PDFのページ数をcsvに出力する
+Output the number of pages of PDF to csv.  
 
 ## Similar tool  
 https://github.com/KentaGoto/pdf_page_counter
 
 ## Usage  
-1. ダブルクリックで実行する
-2. コマンドプロンプトに対象フォルダをドラッグアンドドロップしてEnter
+1. Double-click to run.  
+2. Drag and drop the target folder to the command prompt and enter.  
 
 ## Requirements  
 - Windows  
