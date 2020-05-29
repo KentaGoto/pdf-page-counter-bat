@@ -9,15 +9,12 @@ set result_file=result.csv
 set result=%script_dir%%result_file%
 
 rem pdfinfo.exe
-rem set pdfinfo_cmd=%script_dir%pdfinfo.exe
 set pdfinfo_cmd=pdfinfo.exe
 
 rem grep.exe
-rem set grep_cmd=%script_dir%grep.exe
 set grep_cmd=grep.exe
 
 rem sed.exe
-rem set sed_cmd=%script_dir%sed.exe
 set sed_cmd=sed.exe
 
 rem result.txtÇ™Ç†Ç¡ÇΩÇÁè¡Ç∑
