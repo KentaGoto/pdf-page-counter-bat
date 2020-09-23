@@ -15,3 +15,9 @@ https://github.com/KentaGoto/pdf_page_counter
 - grep  
 - sed  
 - pdfinfo  
+
+## License  
+MIT
+
+## Author  
+Kenta Goto
